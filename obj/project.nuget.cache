@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RdGRSxdTw8U=",
+  "success": true,
+  "projectFilePath": "/home/tony3sord/Trabajos/Api.net/ApiControladores/ApiControladores.csproj",
+  "expectedPackageFiles": [
+    "/home/tony3sord/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/home/tony3sord/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
