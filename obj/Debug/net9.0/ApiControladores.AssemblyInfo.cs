@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiControladores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3032a4790cf7392b9e625890807d032b9899477")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiControladores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiControladores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
